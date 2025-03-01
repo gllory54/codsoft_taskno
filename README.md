@@ -1,2 +1,2 @@
-# codsoft_taskno
-internship tasks
+# About my first internship tasks.
+This project includes a Landing Page, a Portfolio, and a Calculator. The Landing Page is designed to capture user attention with a clear message and call-to-action, while being mobile-friendly and interactive. The Portfolio showcases personal work and skills, providing a professional layout with an easy way to contact the creator. The Calculator is a simple web app for basic arithmetic, with a clean design and user-friendly interface. All projects are responsive and easy to navigate on any device.
